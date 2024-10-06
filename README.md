@@ -44,3 +44,6 @@ bl.en.u4cse22261@bl.students.amrita.edu
 3) Impotance of sentimental analysis for big tech companies and organizations.
 
 
+## Worked under 
+![Logo](https://www.careerguide.com/career/wp-content/uploads/2023/07/Amrita-University.png)
+
